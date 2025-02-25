@@ -1,0 +1,201 @@
+{
+  "Format Version": "1.0",
+  "Languages": [
+    {
+      "Language": "English",
+      "Font": "MS UI Gothic",
+      "Color": "rgb(250,100,0)"
+    },
+    {
+      "Language": "Spanish",
+      "Font": "Consolas",
+      "Color": "rgb(250,0,100)"
+    }
+  ],
+  "Phrase Dictionary": [
+    {
+      "Key": "Show Module Panel.False",
+      "Phrases": ["Show Panel", "Mostrar Panel"]
+    },
+    {
+      "Key": "Show Module Panel.True",
+      "Phrases": ["Show Panel", "Mostrar Panel"]
+    },
+    {
+      "Key": "Show Module Panel",
+      "Phrases": ["Show Panel", "Mostrar Panel"]
+    },
+    {
+      "Key": "Start Module.False",
+      "Phrases": ["Start Module", "Iniciar Módulo"]
+    },
+    {
+      "Key": "Start Module.True",
+      "Phrases": ["Start Module", "Iniciar Módulo"]
+    },
+    {
+      "Key": "Start Module",
+      "Phrases": ["Start Module", "Iniciar Módulo"]
+    },
+    {
+      "Key": "Run New Module",
+      "Phrases": ["Run New Module", "Arrancar Nuevo Módulo"]
+    },
+    {
+      "Key": "Run New Module.True",
+      "Phrases": ["Run New Module", "Arrancar Nuevo Módulo"]
+    },
+    {
+      "Key": "Run New Module.False",
+      "Phrases": ["Run New Module", "Arrancar Nuevo Módulo"]
+    },
+    {
+      "Key": "Show Diagram on Init",
+      "Phrases": ["Show Diagram on Init", "Enseñar Diagrama al Iniciar"]
+    },
+    {
+      "Key": "Show Module Panel",
+      "Phrases": ["Show Module Panel", "Mostrar Panel del Módulo"]
+    },
+    {
+      "Key": "Stop Singleton Module",
+      "Phrases": ["Stop Singleton Module", "Detener Modulo Singleton"]
+    },
+    {
+      "Key": "Stop Singleton Module.False",
+      "Phrases": ["Stop Singleton Module", "Detener Modulo Singleton"]
+    },
+    {
+      "Key": "Stop Singleton Module.True",
+      "Phrases": ["Stop Singleton Module", "Detener Modulo Singleton"]
+    },
+    {
+      "Key": "Stop Cloneable Module",
+      "Phrases": ["Stop Cloneable Module", "Detener Módulo cloneable"]
+    },
+    {
+      "Key": "Start Singleton Module.True",
+      "Phrases": ["Start Singleton Module", "Arrancar Modulo Singleton"]
+    },
+    {
+      "Key": "Start Singleton Module.False",
+      "Phrases": ["Start Singleton Module", "Arrancar Módulo Singleton"]
+    },
+    {
+      "Key": "Start Singleton Module",
+      "Phrases": ["Start Singleton Module", "Arrancar Módulo Singleton"]
+    },
+    {
+      "Key": "Start New Instance Cloneable Module",
+      "Phrases": [" + New Clone", " + Clon Nuevo"]
+    },
+    {
+      "Key": "Start New Instance Cloneable Module.True",
+      "Phrases": [" + New Clone", " + Clon Nuevo"]
+    },
+    {
+      "Key": "Start New Instance Cloneable Module.False",
+      "Phrases": [" + New Clone", " + Clon Nuevo"]
+    },
+    {
+      "Key": "Singleton Running?",
+      "Phrases": ["Singleton Running?", "Status del Singleton"]
+    },
+    {
+      "Key": "Show Singleton Module",
+      "Phrases": ["Show FP", "Mostrar FP"]
+    },
+    {
+      "Key": "Show Singleton Module.True",
+      "Phrases": ["Show FP", "Mostrar FP"]
+    },
+    {
+      "Key": "Show Singleton Module.False",
+      "Phrases": ["Show FP", "Mostrar FP"]
+    },
+    {
+      "Key": "Hide Singleton Module",
+      "Phrases": ["Hide FP", "Ocultar FP"]
+    },
+    {
+      "Key": "Hide Singleton Module.True",
+      "Phrases": ["Hide FP", "Ocultar FP"]
+    },
+    {
+      "Key": "Hide Singleton Module.False",
+      "Phrases": ["Hide FP", "Ocultar FP"]
+    },
+    {
+      "Key": "Status",
+      "Phrases": ["Status", "Estado"]
+    },
+    {
+      "Key": "About DQMH",
+      "Phrases": ["About DQMH", "Acerca de DQMH"]
+    },
+    {
+      "Key": "About DQMH.True",
+      "Phrases": ["About DQMH", "Acerca de DQMH"]
+    },
+    {
+      "Key": "About DQMH.False",
+      "Phrases": ["About DQMH", "Acerca de DQMH"]
+    },
+
+    {
+      "Key": "Active Cloneable Modules",
+      "Phrases": ["Active Modules", "Clones Activos"]
+    },
+
+    {
+      "Key": "DemoLanguage",
+      "Phrases": ["LightBulb", "Foco"]
+    },
+    {
+      "Key": "DemoLanguage.True",
+      "Phrases": ["This Is On", "Foco prendido"]
+    },
+
+    {
+      "Key": "DemoLanguage.False",
+      "Phrases": ["This Is Off", "Foco Apagado"]
+    },
+    {
+      "Key": "Simulate EHL Error",
+      "Phrases": ["Simulate EHL Error", "Simular Error en EHL"]
+    }
+    ,
+    {
+      "Key": "Simulate EHL Error.True",
+      "Phrases": ["Simulate Error", "Simular Error"]
+    },
+    {
+      "Key": "Simulate EHL Error.False",
+      "Phrases": ["Simulate Error", "Simular Error"]
+    },
+    {
+      "Key": "Juan",
+      "Phrases": ["Jhon", "Juan"]
+    },
+    {
+      "Key": "Juan.True",
+      "Phrases": ["On", "Prendido"]
+    },
+    {
+      "Key": "Juan.False",
+      "Phrases": ["Off", "Apagado"]
+    },
+    {
+      "Key": "Jesus",
+      "Phrases": ["Yisus", "Jesus"]
+    },
+    {
+      "Key": "Jesus.True",
+      "Phrases": ["On", "Prendido"]
+    },
+    {
+      "Key": "Jesus.False",
+      "Phrases": ["Off", "Apagado"]
+    }
+  ]
+}
