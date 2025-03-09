@@ -1,0 +1,3 @@
+NotifyIcon Source
+
+https://forums.ni.com/t5/Example-Code/Icon-in-Windows-system-tray-with-LabVIEW/ta-p/3497972
