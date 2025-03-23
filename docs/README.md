@@ -1,5 +1,6 @@
-# LabVIEW-GYM
-Repositorio LabVIEW GYM
+
+![labview-gym-id_logo_color-horizontal_no-bg_arrow-fill](https://github.com/user-attachments/assets/632d26cd-05b8-4c61-a147-f6014bc66d39)
+
 
 # Sesion 1: 24 de Febrero 2025
 
