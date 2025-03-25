@@ -23,3 +23,10 @@
 ## LabVIEW Lifting
   Juan Navarro demostró el uso de la librería XNET para trabajar con el protocolo CAN, compartiendo demostraciones prácticas y muy interesantes. Además, Jesús Villar complementó la sesión con experiencias valiosas sobre el uso de diversos equipos para CAN, en especial aquellos de la marca VECTOR.  
   Para cerrar, Fabiola de la Cueva nos compartió un demo práctico sobre la implementación de callbacks en LabVIEW, mostrando su aplicación y beneficios en proyectos reales.  
+
+# Sesion 3: 24 de Marzo de 2025
+
+[![](https://markdown-videos-api.jorgenkh.no/youtube/JFXHkaW-jWU)](https://youtu.be/JFXHkaW-jWU)
+
+## CardioCoding
+  Juan Navarro presentó una introducción práctica a programación orientada a objetos en LabVIEW con un hardware abstraction layer (HAL) simplificado.   ##
