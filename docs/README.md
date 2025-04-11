@@ -33,8 +33,11 @@
 
 # Sesion 4: 7 de abril 2025
 
-[![](https://markdown-videos-api.jorgenkh.no/youtube/JFXHkaW-jWU)](https://www.youtube.com/watch?v=aUy_6idi1zo)
+[![](https://markdown-videos-api.jorgenkh.no/youtube/aUy_6idi1zo-jWU)](https://youtu.be/aUy_6idi1zo)
   
 ## CardioCoding
    Emmanuel Chacón diseñador gráfico, presentó el proceso para desarrollar interfaces gráficas personalizadas y mejorar la experiencia de usurio. Resumió su experencia de diseño gráfico en tres puntos principales **Función, Estructura y Aplicación**.
    Se menciono como es el flujo de trabajo entre el diseñador y desarrollador de LabVIEW para crear interfaces funcionales. Por otro lado, Jesús Villar mostró las capacidades de LabVIEW para diseñar diversas interfaces de usuario y sus componentes.
+
+## LabVIEW Lifting
+ Enrique Noé de PantherLAB dio un pequeño demo de una librería llamada Firebase API para LabVIEW con la cual se puede acceder a un servicio de Google y crear bases de datos NOSQL en tiempo real.
