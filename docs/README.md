@@ -30,3 +30,11 @@
 
 ## CardioCoding
   Juan Navarro presentó una introducción práctica a programación orientada a objetos en LabVIEW con un hardware abstraction layer (HAL) simplificado.   ##
+
+# Sesion 4: 7 de abril 2025
+
+[![](https://markdown-videos-api.jorgenkh.no/youtube/JFXHkaW-jWU)](https://www.youtube.com/watch?v=aUy_6idi1zo)
+  
+## CardioCoding
+   Emmanuel Chacon diseñador grafico, presento el proceso para desarrollar interfaces graficas personalisadas y mejorar la experiencia de usurio. Resumio su experencia de diseño grafico en tres puntos principales **Función, Estructura y Aplicacion**.
+   Se menciono como es el flujo de trabajo entre el diseñador y desarrollador de LabVIEW para crear interfaces funcionales. Por otro lado, Jesus Villar mostro las capacidades de LabVIEW para diseñar diversas interfaces de usuario y sus componentes.
