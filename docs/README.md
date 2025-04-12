@@ -21,7 +21,7 @@ Somos la comunidad hispanohablante donde programadores como tú entrenan, compar
 
 <p align="center">
 <a href="https://chat.whatsapp.com/LYCLj6QFXsRDSbXQo2ZiBs" rel="unirse a Whatsapp">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/WhatsApp_Logo_green.svg" alt="Whatsapp" style="width:150px;"></img>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/WhatsApp_Logo_green.svg" alt="Whatsapp" style="width:150px;">
 </a>
 </p>
 
