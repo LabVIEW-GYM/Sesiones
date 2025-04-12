@@ -1,11 +1,12 @@
-
+<p align="center"> 
 <img src="https://github.com/user-attachments/assets/632d26cd-05b8-4c61-a147-f6014bc66d39" alt="LabVIEW GYM" style="width:600px;"/>
+</p>
 
 # LabVIEW GYM: Entrena tu mente, domina el código.
 
-¿Quieres llevar tus habilidades en LabVIEW al siguiente nivel? ¡Bienvenido a LabVIEW GYM! 💡🔥
+¿Quieres ejercitar e incrementar tus habilidades en LabVIEW? ¡Bienvenido a LabVIEW GYM! 💡🔥
 
-Somos la comunidad hispanohablante donde programadores como tú entrenan, comparten y crecen. Aquí encontrarás desafíos prácticos, consejos de expertos y el apoyo de una comunidad apasionada por la programación gráfica.
+Somos la comunidad hispanohablante donde programadores como tú entrenan, comparten y crecen. Aquí encontrarás consejos de expertos y el apoyo de una comunidad apasionada por la programación gráfica.
 
 * **Aprende** con ejercicios reales.
 * **Comparte** tus proyectos y soluciones.
