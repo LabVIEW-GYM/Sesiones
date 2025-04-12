@@ -1,35 +1,23 @@
 
-![labview-gym-id_logo_color-horizontal_no-bg_arrow-fill](https://github.com/user-attachments/assets/632d26cd-05b8-4c61-a147-f6014bc66d39)
+<img src="https://github.com/user-attachments/assets/632d26cd-05b8-4c61-a147-f6014bc66d39" alt="LabVIEW GYM" style="width:600px;"/>
+
+# LabVIEW GYM: Entrena tu mente, domina el código.
+
+¿Quieres llevar tus habilidades en LabVIEW al siguiente nivel? ¡Bienvenido a LabVIEW GYM! 💡🔥
+
+Somos la comunidad hispanohablante donde programadores como tú entrenan, comparten y crecen. Aquí encontrarás desafíos prácticos, consejos de expertos y el apoyo de una comunidad apasionada por la programación gráfica.
+
+* **Aprende** con ejercicios reales.
+* **Comparte** tus proyectos y soluciones.
+* **Conecta** con otros desarrolladores.
+
+### Comunidad patrocinada por:
+
+|[PantherLAB](https://pantherlab.com.mx/)    | [JVISystems](https://jvisystems.com/)  | [LabIT Studio](https://labitstudio.com/)   |
+|---|---|---|
+| <img src="https://github.com/user-attachments/assets/6289b231-9999-4941-b3fb-7bb55ad438dc" alt="PantherLAB" style="width:400px;"/>  |  <img src="https://github.com/user-attachments/assets/5952c648-80c7-4734-82ef-5617d73213ba" alt="JVISystems" style="width:400px;"/> |<img src="https://github.com/user-attachments/assets/198281ef-6890-4799-b4c9-99b02a229564" alt="LabIT Studio" style="width:400px;"/>   |  
 
 
-# Sesion 1: 24 de Febrero 2025
-
-[![](https://markdown-videos-api.jorgenkh.no/youtube/OVLwGO7pzlk)](https://youtu.be/OVLwGO7pzlk)
-
-## CardioCoding:
-  Analizamos como funciona el archivo .lvproj al agregar elementos, vimos que tiene un formato XML y que al agregar VI, lbvlib, lvclass los agrega como un Item.
-## LabVIEW Liftting:
-  Analizamos un toolkit de JKI llamado 'Simple Localization' que sirve para cambiar idiomas en una aplicacion de LabVIEW
-  Se agrega codigo en LabVIEW 2024 Q3
-  Instalar Dependencies.vipc antes de abrir el codigo
-  
-# Sesion 2: 10 de Marzo de 2025
-
-[![](https://markdown-videos-api.jorgenkh.no/youtube/eutIbTSBBdE)](https://youtu.be/eutIbTSBBdE)
-
-## CardioCoding
-  Juan Navarro presentó una librería para implementar el sistema de notificaciones de Windows utilizando .NET Framework, destacando el uso de callbacks para una gestión eficiente de eventos.  ##
-
-## LabVIEW Lifting
-  Juan Navarro demostró el uso de la librería XNET para trabajar con el protocolo CAN, compartiendo demostraciones prácticas y muy interesantes. Además, Jesús Villar complementó la sesión con experiencias valiosas sobre el uso de diversos equipos para CAN, en especial aquellos de la marca VECTOR.  
-  Para cerrar, Fabiola de la Cueva nos compartió un demo práctico sobre la implementación de callbacks en LabVIEW, mostrando su aplicación y beneficios en proyectos reales.  
-
-# Sesion 3: 24 de Marzo de 2025
-
-[![](https://markdown-videos-api.jorgenkh.no/youtube/JFXHkaW-jWU)](https://youtu.be/JFXHkaW-jWU)
-
-## CardioCoding
-  Juan Navarro presentó una introducción práctica a programación orientada a objetos en LabVIEW con un hardware abstraction layer (HAL) simplificado.   ##
 
 # Sesion 4: 7 de abril 2025
 
@@ -43,3 +31,33 @@
    
 ## LabVIEW Lifting
  Enrique Noé de PantherLAB dio un pequeño demo de una librería llamada Firebase API para LabVIEW con la cual se puede acceder a un servicio de Google y crear bases de datos NOSQL en tiempo real.
+
+# Sesion 3: 24 de Marzo de 2025
+
+[![](https://markdown-videos-api.jorgenkh.no/youtube/JFXHkaW-jWU)](https://youtu.be/JFXHkaW-jWU)
+
+## CardioCoding
+  Juan Navarro presentó una introducción práctica a programación orientada a objetos en LabVIEW con un hardware abstraction layer (HAL) simplificado.  
+
+# Sesion 2: 10 de Marzo de 2025
+
+[![](https://markdown-videos-api.jorgenkh.no/youtube/eutIbTSBBdE)](https://youtu.be/eutIbTSBBdE)
+
+## CardioCoding
+  Juan Navarro presentó una librería para implementar el sistema de notificaciones de Windows utilizando .NET Framework, destacando el uso de callbacks para una gestión eficiente de eventos.  ##
+
+## LabVIEW Lifting
+  Juan Navarro demostró el uso de la librería XNET para trabajar con el protocolo CAN, compartiendo demostraciones prácticas y muy interesantes. Además, Jesús Villar complementó la sesión con experiencias valiosas sobre el uso de diversos equipos para CAN, en especial aquellos de la marca VECTOR.  
+  Para cerrar, Fabiola de la Cueva nos compartió un demo práctico sobre la implementación de callbacks en LabVIEW, mostrando su aplicación y beneficios en proyectos reales.  
+
+# Sesion 1: 24 de Febrero 2025
+
+[![](https://markdown-videos-api.jorgenkh.no/youtube/OVLwGO7pzlk)](https://youtu.be/OVLwGO7pzlk)
+
+## CardioCoding:
+  Analizamos como funciona el archivo .lvproj al agregar elementos, vimos que tiene un formato XML y que al agregar VI, lbvlib, lvclass los agrega como un Item.
+## LabVIEW Liftting:
+  Analizamos un toolkit de JKI llamado 'Simple Localization' que sirve para cambiar idiomas en una aplicacion de LabVIEW
+  Se agrega codigo en LabVIEW 2024 Q3
+  Instalar Dependencies.vipc antes de abrir el codigo
+
