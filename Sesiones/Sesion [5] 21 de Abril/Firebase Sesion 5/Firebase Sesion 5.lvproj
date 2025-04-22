@@ -21,6 +21,7 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
+		<Item Name="DevicesDashboard.vi" Type="VI" URL="../DevicesDashboard.vi"/>
 		<Item Name="MainPICOEnrique.vi" Type="VI" URL="../MainPICOEnrique.vi"/>
 		<Item Name="MainRIOEnrique.vi" Type="VI" URL="../MainRIOEnrique.vi"/>
 		<Item Name="MainRIOJuan.vi" Type="VI" URL="../MainRIOJuan.vi"/>
