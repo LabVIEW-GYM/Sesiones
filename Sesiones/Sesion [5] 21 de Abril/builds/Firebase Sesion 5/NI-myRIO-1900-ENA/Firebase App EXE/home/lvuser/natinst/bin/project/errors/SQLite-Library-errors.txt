@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<nidocument>
+<nicomment>
+Error codes for SQLite Library by James Powell
+</nicomment>
+
+<nierror code="402860">
+SQLite returned SQLITE_ERROR(1), see www.sqlite.org/rescode.html#error
+</nierror>
+<nierror code="402861">
+SQLite returned SQLITE_INTERNAL(2), see www.sqlite.org/rescode.html
+</nierror>
+<nierror code="402862">
+SQLite returned SSQLITE_PERM(3), see www.sqlite.org/rescode.html
+</nierror>
+<nierror code="402863">
+SQLite returned SQLITE_ABORT(4), see www.sqlite.org/rescode.html#abort
+</nierror>
+<nierror code="402864">
+SQLite returned SQLITE_BUSY(5), see www.sqlite.org/rescode.html#busy
+</nierror>
+<nierror code="402865">
+SQLite returned SQLITE_LOCKED(6), see www.sqlite.org/rescode.html#locked
+</nierror>
+<nierror code="402866">
+SQLite returned SQLITE_NOMEM(7): unable to allocate memory. See www.sqlite.org/rescode.html
+</nierror>
+<nierror code="402867">
+SQLite returned SQLITE_READONLY(8), see www.sqlite.org/rescode.html
+</nierror>
+<nierror code="402868">
+SQLite returned SQLITE_INTERRUPT(9), see www.sqlite.org/rescode.html
+</nierror>
+<nierror code="402869">
+SQLite returned SQLITE_IOERR(10), see www.sqlite.org/rescode.html
+</nierror>
+<nierror code="402870">
+SQLite returned SQLITE_CORRUPT(11), see www.sqlite.org/rescode.html
+</nierror>
+<nierror code="402871">
+SQLite returned SQLITE_NOTFOUND(12), see www.sqlite.org/rescode.html
+</nierror>
+<nierror code="402872">
+SQLite returned SQLITE_FULL(13), see www.sqlite.org/rescode.html
+</nierror>
+<nierror code="402873">
+SQLite returned SQLITE_CANTOPEN(14), see www.sqlite.org/rescode.html
+</nierror>
+<nierror code="402874">
+SQLite returned SQLITE_PROTOCOL(15), see www.sqlite.org/rescode.html
+</nierror>
+<nierror code="402875">
+SQLite returned SQLITE_EMPTY(16), see www.sqlite.org/rescode.html
+</nierror>
+<nierror code="402876">
+SQLite returned SQLITE_SCHEMA(17): database schema has changed.  See www.sqlite.org/rescode.html#schema
+</nierror>
+<nierror code="402877">
+SQLite returned SQLITE_TOOBIG(18), see www.sqlite.org/rescode.html
+</nierror>
+<nierror code="402878">
+SQLite returned SQLITE_CONSTRAINT(19): constraint violation. See www.sqlite.org/rescode.html
+</nierror>
+<nierror code="402879">
+SQLite returned SQLITE_MISMATCH(20), see www.sqlite.org/rescode.html
+</nierror>
+<nierror code="402880">
+SQLite returned SQLITE_MISUSE(21).  May indicate that a method has been used out of order, such as trying to "Bind" to a statement after calling "Step" and before "Reset". See www.sqlite.org/rescode.html#misuse
+</nierror>
+<nierror code="402881">
+SQLite returned SQLITE_NOLFS(22), see www.sqlite.org/rescode.html
+</nierror>
+<nierror code="402882">
+SQLite returned SQLITE_AUTH(23), see www.sqlite.org/rescode.html
+</nierror>
+<nierror code="402883">
+SQLite returned SQLITE_FORMAT(24), see www.sqlite.org/rescode.html
+</nierror>
+<nierror code="402884">
+SQLite returned SQLITE_RANGE(25), see www.sqlite.org/rescode.html#range
+</nierror>
+<nierror code="402885">
+SQLite returned SQLITE_NOTADB(26): not an sqlite database. See www.sqlite.org/rescode.html
+</nierror>
+<nierror code="402886">
+SQLite returned SQLITE_NOTICE(27), see www.sqlite.org/rescode.html
+</nierror>
+<nierror code="402887">
+SQLite returned SQLITE_WARNING(28), see www.sqlite.org/rescode.html
+</nierror>
+
+</nidocument>

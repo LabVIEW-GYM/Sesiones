@@ -22,16 +22,34 @@ Somos la comunidad hispanohablante donde programadores como tú entrenan, compar
 * **Comparte** tus proyectos y soluciones.
 * **Conecta** con otros desarrolladores.
 
-
-### Comunidad patrocinada por:
+### LabVIEW GYM es una comunidad patrocinada por:
 
 |[PantherLAB](https://pantherlab.com.mx/)    | [JVISystems](https://jvisystems.com/)  | [Lab it Studio](https://labitstudio.com/)   |
 |---|---|---|
 | <img src="https://github.com/user-attachments/assets/6289b231-9999-4941-b3fb-7bb55ad438dc" alt="PantherLAB" style="width:400px;"/>  | <img src="https://github.com/user-attachments/assets/5952c648-80c7-4734-82ef-5617d73213ba" alt="JVISystems" style="width:400px;"/> |<img src="https://github.com/user-attachments/assets/198281ef-6890-4799-b4c9-99b02a229564" alt="Lab it Studio" style="width:400px;"/>   |  
 
-
-
 - - -
+- - -
+
+
+
+
+# Sesion 5: 21 de abril 2025
+
+[![](https://markdown-videos-api.jorgenkh.no/youtube/i74NY0iBaKY)](https://youtu.be/i74NY0iBaKY)
+  
+## CardioCoding
+
+Enrique nos mostró mas a detalle la librería Firebase API que está en VIPM, este es un proyecto Open Source, contribuciónes son bienvenidas:
+
+[VIPM Firebase API](https://www.vipm.io/package/pantherlab_lib_firebase_api/)
+
+Firebase API es una librería para poder escribir y leer de bases de datos noSQL en Firebase de Google, lo que se vió en esta sesión fue:
+* Configuración de una Real Time Database en Firebase
+* Configuración de la Autenticación por Correo electrónico
+* Configuración de las Reglas de la base de datos Real time
+* Como hacer consultas (Queries) a la base de datos con los argumentos del verbo Get que viene en la librería.
+* Como funciona internamente la librería.
 
 # Sesion 4: 7 de abril 2025
 
