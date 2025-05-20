@@ -32,6 +32,36 @@ Somos la comunidad hispanohablante donde programadores como tú entrenan, compar
 - - -
 
 
+# Sesion 7: 19 de mayo 2025
+[![](https://markdown-videos-api.jorgenkh.no/youtube/IOdkgieEo1U)](https://youtu.be/IOdkgieEo1U)
+
+## LabVIEW Lifting 
+
+En esta sesión, exploramos el potencial de LabVIEW RT y FPGA junto con Juan Navarro, quien demostró cómo implementar un sistema completo utilizando una tarjeta **MyRIO y LabVIEW 2025**. Durante este entrenamiento, desarrolló:
+
+* Un Código para **FPGA** que lee y escribe algunas I/O de la **MyRIO**.
+* Un Código para **LabVIEW RT** que gestiona la comunicación con el **FPGA**.
+* Una interfaz en el **Host** para visualizar los datos obtenidos por el código de RT usando variables compartidas.
+
+Además, profundizamos en temas clave como:
+
+* Comparativa entre **PLCs** y **cRIOs**: ¿Qué ventajas ofrece un cRIO frente a un PLC tradicional?
+* Casos de uso donde la flexibilidad y potencia de los sistemas NI destacan.
+
+
+# Sesion 6: 5 de mayo 2025
+[![](https://markdown-videos-api.jorgenkh.no/youtube/NKvE-rgCUP4)](https://youtu.be/NKvE-rgCUP4)
+
+## CardioCoding
+
+Juan Navarro nos hablo del protocolo  **Modbus RTU y TCP**. menciono las diferencias a nivel data frame que existe entre
+RTU y TCP, mostro su arquitectura con algunos diagramas esquematicos.
+
+Por otro lado mostro ejemplos utilizando myRIO con las librerias NI Modbus.
+
+A demas de un ejemplo practico, Jesus Villar utilizo hardware de terceros, un modulo de automation direct
+SIO-MB12CDR y un modulo Turk TBEN-L4-8IOLA. Ambos modulos se comunicaban por medio **Holding Registers e Input Registers**
+Utilizando a LabVIEW como maestro con las librerias NI Modbus.
 
 
 # Sesion 5: 21 de abril 2025
