@@ -32,6 +32,22 @@ Somos la comunidad hispanohablante donde programadores como tú entrenan, compar
 - - -
 
 
+# Sesion 7: 19 de mayo 2025
+[![](https://markdown-videos-api.jorgenkh.no/youtube/IOdkgieEo1U)](https://youtu.be/IOdkgieEo1U)
+
+## LabVIEW Lifting 
+
+En esta sesión, exploramos el potencial de LabVIEW RT y FPGA junto con Juan Navarro, quien demostró cómo implementar un sistema completo utilizando una tarjeta **MyRIO y LabVIEW 2025**. Durante este entrenamiento, desarrolló:
+
+* Un Código para **FPGA** que lee y escribe algunas I/O de la **MyRIO**.
+* Un Código para **LabVIEW RT** que gestiona la comunicación con el **FPGA**.
+* Una interfaz en el **Host** para visualizar los datos obtenidos por el código de RT usando variables compartidas.
+
+Además, profundizamos en temas clave como:
+
+* Comparativa entre **PLCs** y **cRIOs**: ¿Qué ventajas ofrece un cRIO frente a un PLC tradicional?
+* Casos de uso donde la flexibilidad y potencia de los sistemas NI destacan.
+
 
 # Sesion 6: 5 de mayo 2025
 [![](https://markdown-videos-api.jorgenkh.no/youtube/NKvE-rgCUP4)](https://youtu.be/NKvE-rgCUP4)
