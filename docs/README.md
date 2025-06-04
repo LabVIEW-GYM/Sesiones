@@ -31,6 +31,23 @@ Somos la comunidad hispanohablante donde programadores como tú entrenan, compar
 - - -
 - - -
 
+# Sesion 8: 2 de Junio 2025
+[![](https://markdown-videos-api.jorgenkh.no/youtube/03wi1PbxBDA)](https://youtu.be/03wi1PbxBDA)
+
+## CardioCoding
+
+Vimos algunos paquetes nuevos en VIPM
+* Que hay de nuevo en Panther Dashboard for DQMH
+* Scripting Plugins for DQMH
+
+## LabVIEW Lifting
+
+En esta sesión Enrique Noé de PantherLAB nos compartió como utilizar VIPM para empaquetar código de LabVIEW, como parte de las ventajas de usar VIPM están:
+
+-Compartir código
+-Manejar código de reuso
+-Compartir Herramientas con la comunidad de desarrolladores de LabVIEW
+etc.
 
 # Sesion 7: 19 de mayo 2025
 [![](https://markdown-videos-api.jorgenkh.no/youtube/IOdkgieEo1U)](https://youtu.be/IOdkgieEo1U)
