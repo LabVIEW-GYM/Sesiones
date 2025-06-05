@@ -29,6 +29,9 @@ Somos la comunidad hispanohablante donde programadores como tú entrenan, compar
 | <img src="https://github.com/user-attachments/assets/6289b231-9999-4941-b3fb-7bb55ad438dc" alt="PantherLAB" style="width:400px;"/>  | <img src="https://github.com/user-attachments/assets/5952c648-80c7-4734-82ef-5617d73213ba" alt="JVISystems" style="width:400px;"/> |<img src="https://github.com/user-attachments/assets/198281ef-6890-4799-b4c9-99b02a229564" alt="Lab it Studio" style="width:400px;"/>   |  
 
 - - -
+ 
+[Calendario de Sesiones](https://calendar.google.com/calendar/u/0?cid=ZmYzOTIwZmYxZmY0Y2YwZThjZmYwZTFhOTBhYzhmZGU1MTIwYWRkOTY2M2E4Nzg3M2M2NDVlMjRiMGZiZGIzZEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
+
 - - -
 
 # Sesion 8: 2 de Junio 2025
