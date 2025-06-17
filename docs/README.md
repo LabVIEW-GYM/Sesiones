@@ -34,6 +34,18 @@ Somos la comunidad hispanohablante donde programadores como tú entrenan, compar
 
 - - -
 
+# Sesion 9: 16 de Junio 2025
+[![](https://markdown-videos-api.jorgenkh.no/youtube/SzNY0Za_BYA)](https://youtu.be/SzNY0Za_BYA)
+
+# Temas Varios UIs (PaneRelief, VIs Malcriados, Diseño de Custom Controls)
+
+En esta sesión tocamos varios temas relacionados a un buen diseño de UIs, primeramente Juan Navarro nos mostró como utilizar PaneRelief para seccionar un panel frontal y generar cierta dinámica entre las secciones.
+
+Enrique Noé nos mostró algunos ejemplos de "Brat VIs" o Vis Malcriados, los cuales son vis que alteran de alguna forma el panel frontal del vi que los mande llamar, cambiando colores, fuentes, tamaño de panel, orden de controles, etc.
+
+Finalmente Jesús Villar mostró como crear un botón boleado con sus 6 estados, mostró también como están compuestos otros controles mucho mas sofisticados.
+
+
 # Sesion 8: 2 de Junio 2025
 [![](https://markdown-videos-api.jorgenkh.no/youtube/03wi1PbxBDA)](https://youtu.be/03wi1PbxBDA)
 
