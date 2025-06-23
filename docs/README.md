@@ -43,7 +43,7 @@ En esta sesión tocamos varios temas relacionados a un buen diseño de UIs, prim
 
 Enrique Noé nos mostró algunos ejemplos de "Brat VIs" o Vis Malcriados, los cuales son vis que alteran de alguna forma el panel frontal del vi que los mande llamar, cambiando colores, fuentes, tamaño de panel, orden de controles, etc.
 
-Finalmente Jesús Villar mostró como crear un botón boleado con sus 6 estados, mostró también como están compuestos otros controles mucho mas sofisticados.
+Finalmente Jesús Villar mostró como crear un botón boleano con sus 6 estados, mostró también como están compuestos otros controles mucho mas sofisticados.
 
 
 # Sesion 8: 2 de Junio 2025
