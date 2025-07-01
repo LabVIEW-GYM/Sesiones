@@ -34,6 +34,20 @@ Somos la comunidad hispanohablante donde programadores como tú entrenan, compar
 
 - - -
 
+# Sesion 10: 30 de Junio 2025
+[![](https://markdown-videos-api.jorgenkh.no/youtube/Ltbdgd3oxAo)](https://youtu.be/Ltbdgd3oxAo)
+
+# Diagramas UML (Unified Modeling Language) y Open GDS Toolkit.
+
+En esta sesión Enrique nos platico sobre UML, adicionalmente vimos como utilizar el toolkit de Open GDS para generar código y también hacer ingeniería inversa.
+
+Que es UML - (Unified Modeling Language) o Lenguaje Unificado de modelado
+* Lenguaje visual que ayuda al diseño y planificación de sistemas de Software
+* Ayuda a comunicar ideas de tal manera que programadores, analistas, clientes entiendan un sistema y sus elementos e interacciones.
+
+Links de interés:
+[Open GDS VIPM](https://www.vipm.io/package/opengds/)
+
 # Sesion 9: 16 de Junio 2025
 [![](https://markdown-videos-api.jorgenkh.no/youtube/SzNY0Za_BYA)](https://youtu.be/SzNY0Za_BYA)
 
