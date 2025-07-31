@@ -34,6 +34,22 @@ Somos la comunidad hispanohablante donde programadores como tú entrenan, compar
 
 - - -
 
+# Sesion 12: 28 de Julio 2025
+[![](https://markdown-videos-api.jorgenkh.no/youtube/DebU945yzpA)](https://youtu.be/DebU945yzpA)
+
+# Codesys y LabVIEW
+
+En esta ocasión Jesús Villar guió la reunión en discutir la plataforma de software Codesys, que permite aplicaciones industriales de control emulando un PLC en computadoras personales y admitiendo múltiples lenguajes y protocolos de programación.
+
+La sesión concluyó con demostraciones de la puesta en marcha y configuración del proyecto PLC, discusiones sobre sistemas de programación y protocolos industriales.
+
+# Sesion 11: 14 de Julio 2025
+[![](https://markdown-videos-api.jorgenkh.no/youtube/-Cu1wo7b0Mk)](https://youtu.be/-Cu1wo7b0Mk)
+
+# Actor Framework
+
+Juan Navarro dirigió una sesión completa sobre Actor Framework, demostrando su implementación práctica para diseñar sistemas paralelos complejos a través de un ejemplo con una máquina de estado y explicando conceptos clave como plantillas, herencia y manejo de errores. La discusión cubrió varios aspectos de la funcionalidad del framework, incluyendo el procesamiento de mensajes, el envío dinámico y los sistemas de buffer de comandos.
+
 # Sesion 10: 30 de Junio 2025
 [![](https://markdown-videos-api.jorgenkh.no/youtube/Ltbdgd3oxAo)](https://youtu.be/Ltbdgd3oxAo)
 
