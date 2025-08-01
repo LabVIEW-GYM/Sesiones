@@ -48,7 +48,9 @@ La sesión concluyó con demostraciones de la puesta en marcha y configuración 
 
 # Actor Framework
 
-Juan Navarro dirigió una sesión completa sobre Actor Framework, demostrando su implementación práctica para diseñar sistemas paralelos complejos a través de un ejemplo con una máquina de estado y explicando conceptos clave como plantillas, herencia y manejo de errores. La discusión cubrió varios aspectos de la funcionalidad del framework, incluyendo el procesamiento de mensajes, el envío dinámico y los sistemas de buffer de comandos.
+Juan Navarro dirigió una sesión introductoria sobre el uso práctico de Actor Framework.
+En esta sesión se buscó hacer una analogía de uso de Actor Framework a máquinas de estados simples y como se puede generar una interfaz de usuario utilizando Actor Framework. Además se exploró el manejo de errores y los overrides mas básicos para poder empezar a utilizar Actor Framework.
+La discusión cubrió varios aspectos de la funcionalidad del framework, incluyendo el procesamiento de mensajes, el envío dinámico y los sistemas de buffer de comandos.
 
 # Sesion 10: 30 de Junio 2025
 [![](https://markdown-videos-api.jorgenkh.no/youtube/Ltbdgd3oxAo)](https://youtu.be/Ltbdgd3oxAo)
