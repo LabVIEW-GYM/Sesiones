@@ -47,7 +47,7 @@ Temas abordados:
 
 Se implementó Modbus TCP como canal de comunicación entre **LabVIEW y CODESYS**.
 
-Se presentó un ejemplo práctico de control de un sensor de visión I**V4 Keyence mediante Ethernet/IP** en modo escáner.
+Se presentó un ejemplo práctico de control de un sensor de visión **IV4 Keyence mediante Ethernet/IP** en modo escáner.
 
 Se discutió cómo superar la limitación de LabVIEW, que no acepta **comunicación implícita con Ethernet/IP**, proponiendo soluciones alternativas.
 
