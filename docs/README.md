@@ -35,6 +35,23 @@ Somos la comunidad hispanohablante donde programadores como tú entrenan, compar
 - - -
 
 # Sesion 12: 28 de Julio 2025
+[![](https://markdown-videos-api.jorgenkh.no/youtube/VtNB5nxQrwo)](https://youtu.be/VtNB5nxQrwo)
+
+# Codesys y LabVIEW continuacion
+
+Hola comunidad,
+
+El pasado 11 de agosto, Jesús Villar continuo explorando la integración de **LabVIEW con CODESYS**, enfocándonos en su aplicación en buses industriales para automatización.
+
+Temas abordados:
+
+Se implementó Modbus TCP como canal de comunicación entre **LabVIEW y CODESYS**.
+
+Se presentó un ejemplo práctico de control de un sensor de visión I**V4 Keyence mediante Ethernet/IP** en modo escáner.
+
+Se discutió cómo superar la limitación de LabVIEW, que no acepta **comunicación implícita con Ethernet/IP**, proponiendo soluciones alternativas.
+
+# Sesion 12: 28 de Julio 2025
 [![](https://markdown-videos-api.jorgenkh.no/youtube/DebU945yzpA)](https://youtu.be/DebU945yzpA)
 
 # Codesys y LabVIEW
