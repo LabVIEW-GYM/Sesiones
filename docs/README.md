@@ -34,14 +34,41 @@ Somos la comunidad hispanohablante donde programadores como tú entrenan, compar
 
 - - -
 
-# Sesion 12: 28 de Julio 2025
+# Sesion 15: 8 de Septiembre 2025
+[![](https://markdown-videos-api.jorgenkh.no/youtube/w7xoW-ANtHg)](https://youtu.be/w7xoW-ANtHg)
+
+# Web Services en LabVIEW
+
+En esta sesión Enrique Noé dio una introducción a los WebServices en LabVIEW, se vio cómo interactuar utilizando Postman, así como la creación de un sitio web local para el acceso a los webservices.
+
+Un Web Service (Servicio Web) es una aplicación de software que expone sus funcionalidades a otras aplicaciones a través de una red, utilizando protocolos estandarizados como HTTP. En términos sencillos, funciona como un módulo de software accesible de forma remota, que puede ser invocado por otras aplicaciones para ejecutar operaciones específicas o intercambiar datos. Esta tecnología se basa en dos características fundamentales: multiplataforma y compartición.
+
+# Sesion 14: 25 de agosto de 2025
+[![](https://markdown-videos-api.jorgenkh.no/youtube/uV2cNtBuC3k)](https://youtu.be/uV2cNtBuC3k)
+
+# PPLs en LabVIEW
+
+La sesión exploramos el uso de PPL de la mano de Andrés González.
+
+Entre los temas tratados se abordó:
+
+Creación de PPL.
+
+Ventajas de uso de PPL en proyectos muy grandes
+
+Ventajas de colaboración.
+
+Demostración de un benchmark del uso de PPLs en LabVIEW.
+
+
+# Sesion 13: 28 de Julio 2025
 [![](https://markdown-videos-api.jorgenkh.no/youtube/VtNB5nxQrwo)](https://youtu.be/VtNB5nxQrwo)
 
 # Codesys y LabVIEW continuacion
 
 Hola comunidad,
 
-El pasado 11 de agosto, Jesús Villar continuo explorando la integración de **LabVIEW con CODESYS**, enfocándonos en su aplicación en buses industriales para automatización.
+El pasado 11 de agosto, Jesús Villar continuó explorando la integración de **LabVIEW con CODESYS**, enfocándonos en su aplicación en buses industriales para automatización.
 
 Temas abordados:
 
