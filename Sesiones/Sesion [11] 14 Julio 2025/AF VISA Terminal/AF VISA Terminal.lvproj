@@ -15,9 +15,9 @@
 		<Item Name="State Machine" Type="Folder" URL="../State Machine">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
-		<Item Name="Launcher.vi" Type="VI" URL="../UI VISA Terminal/UI VISA Terminal/Launcher.vi"/>
-		<Item Name="Manager.lvlib" Type="Library" URL="../Manager/Manager.lvlib"/>
+		<Item Name="Launcher.vi" Type="VI" URL="../Launcher.vi"/>
 		<Item Name="UI VISA Terminal.lvlib" Type="Library" URL="../UI VISA Terminal/UI VISA Terminal.lvlib"/>
+		<Item Name="VISA Terminal.lvlib" Type="Library" URL="../VISA Terminal/VISA Terminal.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
