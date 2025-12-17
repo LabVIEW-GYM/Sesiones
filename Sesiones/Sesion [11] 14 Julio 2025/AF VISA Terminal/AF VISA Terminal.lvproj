@@ -16,6 +16,7 @@
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
 		<Item Name="Launcher.vi" Type="VI" URL="../UI VISA Terminal/UI VISA Terminal/Launcher.vi"/>
+		<Item Name="Manager.lvlib" Type="Library" URL="../Manager/Manager.lvlib"/>
 		<Item Name="UI VISA Terminal.lvlib" Type="Library" URL="../UI VISA Terminal/UI VISA Terminal.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build"/>
